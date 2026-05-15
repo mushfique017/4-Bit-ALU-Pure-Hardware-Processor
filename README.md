@@ -24,7 +24,7 @@ To ensure high reliability and organized signal flow, the processor is divided i
 
 ---
 ## 📸 Project Preview
-![Circuit Layout](System Overview.png)
+![Circuit Layout](System%20Overview.png)
 
 ## 🧠 Engineering Highlights
 - Designed a ripple-carry adder architecture from discrete logic gate levels.
