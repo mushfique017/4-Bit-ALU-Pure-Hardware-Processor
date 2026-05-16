@@ -3,7 +3,7 @@
 This project is a fully functional 4-bit hardware processor designed and simulated in Tinkercad. It performs binary addition using discrete logic gates rather than a pre-programmed microcontroller, demonstrating a deep understanding of computer architecture and digital logic.
 
 ## 🚀 Live Simulation
-[👉 Click here to view and test the circuit on Tinkercad](PASTE_YOUR_TINKERCAD_LINK_HERE)
+[👉 Click here to view and test the circuit on Tinkercad](https://www.tinkercad.com/things/9THda5c7IwG-4-bit-arithmetic-logic-unit-pure-hardware-processor)
 
 ## 🛠️ Hardware Specifications
 - **Logic Gates:** 74HC00 (NAND), 74HC08 (AND), 74HC32 (OR).
